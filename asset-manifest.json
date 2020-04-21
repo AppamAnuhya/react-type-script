@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-type-script/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-type-script/static/js/main.b6f48b0d.chunk.js",
-    "main.js.map": "/react-type-script/static/js/main.b6f48b0d.chunk.js.map",
-    "runtime-main.js": "/react-type-script/static/js/runtime-main.9abfd4f2.js",
-    "runtime-main.js.map": "/react-type-script/static/js/runtime-main.9abfd4f2.js.map",
-    "static/js/2.6eaacb52.chunk.js": "/react-type-script/static/js/2.6eaacb52.chunk.js",
-    "static/js/2.6eaacb52.chunk.js.map": "/react-type-script/static/js/2.6eaacb52.chunk.js.map",
-    "index.html": "/react-type-script/index.html",
-    "precache-manifest.c7b1ae1d802aff46d217f2089fc59690.js": "/react-type-script/precache-manifest.c7b1ae1d802aff46d217f2089fc59690.js",
-    "service-worker.js": "/react-type-script/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-type-script/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6eaacb52.chunk.js.LICENSE.txt": "/react-type-script/static/js/2.6eaacb52.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-type-script/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pages/react-type-script/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pages/react-type-script/static/js/main.fc1f1212.chunk.js",
+    "main.js.map": "/pages/react-type-script/static/js/main.fc1f1212.chunk.js.map",
+    "runtime-main.js": "/pages/react-type-script/static/js/runtime-main.66655cc6.js",
+    "runtime-main.js.map": "/pages/react-type-script/static/js/runtime-main.66655cc6.js.map",
+    "static/js/2.6eaacb52.chunk.js": "/pages/react-type-script/static/js/2.6eaacb52.chunk.js",
+    "static/js/2.6eaacb52.chunk.js.map": "/pages/react-type-script/static/js/2.6eaacb52.chunk.js.map",
+    "index.html": "/pages/react-type-script/index.html",
+    "precache-manifest.7a7d387d0aecac1e763236e44ce17c1b.js": "/pages/react-type-script/precache-manifest.7a7d387d0aecac1e763236e44ce17c1b.js",
+    "service-worker.js": "/pages/react-type-script/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pages/react-type-script/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6eaacb52.chunk.js.LICENSE.txt": "/pages/react-type-script/static/js/2.6eaacb52.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pages/react-type-script/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9abfd4f2.js",
+    "static/js/runtime-main.66655cc6.js",
     "static/js/2.6eaacb52.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b6f48b0d.chunk.js"
+    "static/js/main.fc1f1212.chunk.js"
   ]
 }
